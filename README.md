@@ -1,8 +1,3 @@
-# Desarrollo-Interfaces
-
-Ejercicios varios de DI (DAM)
-
-
 ## Lista de ejercicios
 
 - Fragmentos
